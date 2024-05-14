@@ -1,0 +1,12 @@
+pyTelegramBotAPI
+python-dotenv
+pytube
+moviepy
+youtube_dl
+requests
+python-telegram-bot
+wget
+asyncio 
+aiohttp
+pafy
+selenium
